@@ -28,6 +28,6 @@ class Main{
         System.out.println(myCar.applyBrakes());
         System.out.println(myCar.startEngine());
 
-        "sare".length();
+
     }
 }

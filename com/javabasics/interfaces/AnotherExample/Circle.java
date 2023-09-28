@@ -23,5 +23,7 @@ class Main{
 
         Shape shape2=new Square();
         System.out.println("Area of the shape "+shape2.getArea(2));
+
+
     }
 }
