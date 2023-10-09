@@ -3,7 +3,7 @@ package com.javabasics.assignments;
 import java.util.Scanner;
 
 public class assignment1 {
-    public static void main(String[] args) {
+    public static void main(StringExample[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the value of n: ");
